@@ -1,2 +1,4 @@
 # firstep
-try to learn how to use github
+
+Chih here. Still trying to get how this works.
+I love burgers.
